@@ -1,0 +1,1 @@
+1. Application java8-multimodule-clone-edp-build has been successfully deployed!!
